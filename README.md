@@ -422,9 +422,9 @@ git push origin feature/new-feature
 
 ## 👨‍💻 Author
 
-**Aashish Sharma**
+**Priyanshu**
 
-GitHub: https://github.com/aashishky2
+GitHub: https://github.com/priyanshu06026
 
 ---
 
